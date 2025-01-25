@@ -3,6 +3,8 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
+  
+"homepage": "https://Anastasia-Mialitsina/goit-js-hw-11",
   "scripts": {
     "dev": "vite",
     "build": "vite build --base=/goit-js-hw-11/",
